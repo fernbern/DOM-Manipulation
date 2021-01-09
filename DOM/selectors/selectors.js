@@ -1,0 +1,26 @@
+console.log(document.domain);
+console.log(document.URL);
+console.log(document.title);
+document.title = 123;
+console.log();
+console.log(document.doctype);
+console.log(document.head);
+console.log(document.body);
+console.log(document.all);
+console.log(document.forms);
+console.log(document.links);
+console.log(document.forms);
+console.log(document.links)
+console.log(document.getElementById('header-title'));
+console.log(headerTitle);
+headerTitle.textContent = 'helo';
+headerTitle.innerText = 'good';
+console.log(headerTitle.textContent);
+headerTitle.innerHTML = '<h3><Hello/h3>';
+headerTitle.style.borderBottom = 'solid 3px #888';
+headerTitle.style.contentText = 'none';
+var items = document.getElementsByClassName('list-group-type');
+items[1].textContent = 'hello-2';
+items[i].style.fontWeight = 'bold';
+items[1].style.backgroundColor = 'yellow';
+items.style.backgroundColor = ' #fefefe';
