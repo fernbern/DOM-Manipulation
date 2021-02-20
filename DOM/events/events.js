@@ -7,3 +7,4 @@ function eventFunction() {
     x.initMouseEvent('mouseover', true, true,  window);
     document.getElementById('myDiv');
 }
+var x = 12;
