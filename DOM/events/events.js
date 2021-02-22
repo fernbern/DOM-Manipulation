@@ -8,3 +8,4 @@ function eventFunction() {
     document.getElementById('myDiv');
 }
 var x = 12;
+console.log(e);
