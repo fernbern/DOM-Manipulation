@@ -9,3 +9,6 @@ function eventFunction() {
 }
 var x = 12;
 console.log(e);
+function event(){
+    var arr = [1,2,3];
+}
