@@ -13,3 +13,4 @@ function event(){
     var arr = [1,2,3];
 }
 const xyz = 'change location';
+const app = tre;
