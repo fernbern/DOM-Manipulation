@@ -1,5 +1,6 @@
 function eventFunction() {
     alert(event.target.nodeName);
+    console.log(event.target.nodeName);
 }
 // create event
 function eventFunction() {
