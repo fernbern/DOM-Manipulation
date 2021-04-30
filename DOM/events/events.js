@@ -15,3 +15,4 @@ function event(){
 }
 const xyz = 'change location';
 const app = tre;
+const arr = 1;
