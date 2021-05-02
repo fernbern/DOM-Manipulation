@@ -5,3 +5,4 @@ console.log(test);
 const work = true;
 const modal = document.querySelector('modal');
 const modalBtn = document.querySelector('modal');
+let arr = 12 * 8;
