@@ -8,6 +8,11 @@ function eventFunction() {
     x.initMouseEvent('mouseover', true, true,  window);
     document.getElementById('myDiv');
 }
+function eventFunction() {
+    var x = document.createEvent('MouseEvent);
+    x.initMouseEvent('mouseover', true, true, window);
+    document.getElementById('myDiv');
+}
 var x = 12;
 console.log(e);
 function event(){
