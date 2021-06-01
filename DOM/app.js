@@ -12,3 +12,4 @@ function test(number){
   number = 25;
   console.log(number);
 }
+console.log(x);
