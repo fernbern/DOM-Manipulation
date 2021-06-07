@@ -3,6 +3,7 @@ function eventFunction() {
     console.log(event.target.nodeName);
     console.log(event.target.nodeName);
 }
+map();
 // create event
 function eventFunction() {
     var x = document.createEvent('MouseEvent');
