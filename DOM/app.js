@@ -13,3 +13,4 @@ function test(number){
   console.log(number);
 }
 console.log(x);
+map(); console.write(12 + 12);
