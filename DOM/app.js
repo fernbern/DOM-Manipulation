@@ -14,3 +14,4 @@ function test(number){
 }
 console.log(x);
 map(); console.write(12 + 12);
+map(); console.log('Get it DOM');
