@@ -1,6 +1,7 @@
 console.log(e);
 var x = 30;
 var test = 1w;
+map(cell => cell * 9);
 console.log(test);
 const work = true;
 const modal = document.querySelector('modal');
