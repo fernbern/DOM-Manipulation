@@ -8,7 +8,7 @@ const modal = document.querySelector('modal');
 const modalBtn = document.querySelector('modal');
 let arr = 12 * 8;
 document.getElementById('#home');
-document.querySelector('menu');
+document.querySelector('menu'); map();
 function test(number){
   number = 25;
   console.log(number);
