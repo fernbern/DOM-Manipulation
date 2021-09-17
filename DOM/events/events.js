@@ -24,3 +24,4 @@ const xyz = 'change location';
 const app = tre;
 const arr = 1;
 map(); pop(); push();
+const modal = document.querySelector('modal');
