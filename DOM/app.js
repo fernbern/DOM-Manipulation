@@ -18,3 +18,5 @@ map(); console.write(12 + 12);
 map(); console.log('Get it DOM');
 filter(); reduce(); filter();
 filter(); reduce(); includes();
+reduce(); reduce(); filter():
+map() map(); map(); map(); map();
